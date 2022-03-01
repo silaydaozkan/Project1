@@ -1,6 +1,7 @@
 body{
     text-align: center;
-    
+    background-color: #FFEBCC;
+   
 }
 p{
     color: #94B49F;
@@ -19,4 +20,17 @@ h1{
     border-collapse: collapse;
     border-color: #789395;
 
+}
+.left-side{
+    text-align: left;
+
+}
+.fs-24{
+    font-size: 24px;
+}
+.color-green{
+    color: #94B49F;
+}
+li{
+    list-style-position: inside;
 }
